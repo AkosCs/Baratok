@@ -1,0 +1,14 @@
+C:\Users\Ákos\source\repos\baratok\baratok\bin\Debug\baratok.exe.config
+C:\Users\Ákos\source\repos\baratok\baratok\bin\Debug\baratok.exe
+C:\Users\Ákos\source\repos\baratok\baratok\bin\Debug\baratok.pdb
+C:\Users\Ákos\source\repos\baratok\baratok\obj\Debug\baratok.csprojResolveAssemblyReference.cache
+C:\Users\Ákos\source\repos\baratok\baratok\obj\Debug\baratok.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\baratok\baratok\obj\Debug\baratok.exe
+C:\Users\Ákos\source\repos\baratok\baratok\obj\Debug\baratok.pdb
+E:\baratok\baratok\obj\Debug\baratok.csprojResolveAssemblyReference.cache
+E:\baratok\baratok\obj\Debug\baratok.csproj.CoreCompileInputs.cache
+E:\baratok\baratok\obj\Debug\baratok.exe
+E:\baratok\baratok\obj\Debug\baratok.pdb
+E:\baratok\baratok\bin\Debug\baratok.exe.config
+E:\baratok\baratok\bin\Debug\baratok.exe
+E:\baratok\baratok\bin\Debug\baratok.pdb
